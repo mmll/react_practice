@@ -1,4 +1,4 @@
-//const path = require('path');
+// hello world const path = require('path');
 
 module.exports = {
 	context: __dirname + '/app',
